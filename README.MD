@@ -3,7 +3,7 @@ A modification of the dubbadhar theme for the MoBro application (https://www.mod
 
 For questions and more visit the official ModBros forum (https://www.mod-bros.com/en/forum/t/dubbadhar-red-theme-download~1160).
 
-Check out dubbadhar-light, a light version of this theme (https://github.com/Mithrawn/dubbadhar-light).  
+Check out dubbadhar-light, a light version of this theme (https://github.com/LeonPro12/dubbadhar-light).  
 Also, check out dubbadhar-yellow from Mithrawn, a fork of dubbadhar-red (https://github.com/Mithrawn/dubbadhar-yellow).
 
 # Installation
